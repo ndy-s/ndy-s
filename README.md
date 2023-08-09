@@ -39,9 +39,9 @@ A full-stack software developer who loves exploring new things and constantly ex
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
 <h3>GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=25px></h3>
- 
+
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndy-s&theme=transparent"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndy-s&theme=transparent" alt="Ndy Status"/>
 </div>
 <br>
 <details>
