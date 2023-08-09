@@ -38,17 +38,17 @@ A full-stack software developer who loves exploring new things and constantly ex
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
- <h3>GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=25px></h3>
+<h3>GitHub Stats <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width=25px></h3>
  
- <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndy-s&theme=transparent"/>
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ndy-s&theme=transparent"/>
 </div>
 <br>
 <details>
     <summary><b>Expand to view</b></summary>
     <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ndy-s&show_icons=true"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ndy-s&langs_count=10&show_icons=true&locale=en&layout=compact" height="195px"/>    
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ndy-s&langs_count=10&show_icons=true&locale=en&layout=compact" height="195px"/>    
 </details>
 <br>
 <p align="left">
