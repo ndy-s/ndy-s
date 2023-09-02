@@ -15,7 +15,7 @@
   <p><i>"Code, code, and code!"</i></p>
 </div>
 
-A full-stack software developer who loves exploring new things and constantly expanding my skill set. Currently, I am developing a <a href="https://discord.js.org/">Discord bot</a> for RPG games and diving into exciting topics such as <a href="https://en.wikipedia.org/wiki/Deep_learning">deep learning</a>, and <a href="https://en.wikipedia.org/wiki/Computer_vision">computer vision</a>. Feel free to connect with me on <a href="https://www.linkedin.com/in/hendy-saputra-20b00424b/">LinkedIn</a> or reach out via [email](mailto:hendy.sg02@gmail.com)!
+A learner who loves exploring new things and constantly expanding my skill set. Currently, I'm actively engaged in studying <a href="https://en.wikipedia.org/wiki/Machine_learning">machine learning</a> and its foundational concepts, diving into areas like <a href="https://en.wikipedia.org/wiki/Natural_language_processing">natural language processing</a>, <a href="https://en.wikipedia.org/wiki/Computer_vision">computer vision</a>, <a href="https://en.wikipedia.org/wiki/Speech_recognition">speech recognition</a>, and others. Feel free to connect with me on <a href="https://www.linkedin.com/in/hendy-saputra-20b00424b/">LinkedIn</a> or reach out via [email](mailto:hendy.sg02@gmail.com)!
 
 <h3>Languages, Frameworks and Tools:</h3>
 
