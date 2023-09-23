@@ -2,10 +2,10 @@
   <h2>Hello, I'm Hendy!</h2>
   
   <a href="https://github.com/Ndy-S">
-    <img src="https://img.shields.io/badge/-ndys-black?style=flat&logo=GitHub&logoColor=white" alt="GitHub Badge">
+    <img src="https://img.shields.io/badge/-Ndy--S-black?style=flat&logo=GitHub&logoColor=white" alt="GitHub Badge">
   </a>
   <a href="https://www.linkedin.com/in/hendy-saputra-20b00424b/">
-    <img src="https://img.shields.io/badge/-hendy%20saputra-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
+    <img src="https://img.shields.io/badge/-Hendy%20Saputra-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
   </a>
   <a href="mailto:hendy.sg02@gmail.com">
     <img src="https://img.shields.io/badge/-hendy.sg02@gmail.com-red?style=flat&logo=Gmail&logoColor=white" alt="Email Badge">
@@ -22,11 +22,13 @@ A learner who loves exploring new things and constantly expanding my skill set. 
 ![PHP](https://img.shields.io/badge/-PHP-black?logo=PHP&style=social)&nbsp;&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-black?logo=laravel&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript&style=social)&nbsp;&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?logo=vue.js&style=social)&nbsp;&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js&style=social)&nbsp;&nbsp;
 ![Express.js](https://img.shields.io/badge/-Express.js-black?logo=express&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=python&style=social)&nbsp;&nbsp;
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow&style=social)&nbsp;&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?logo=pytorch&style=social)&nbsp;&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-black?logo=sass&style=social)&nbsp;&nbsp;
@@ -35,6 +37,7 @@ A learner who loves exploring new things and constantly expanding my skill set. 
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?logo=tailwindcss&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb&style=social)&nbsp;&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-black?logo=redis&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
