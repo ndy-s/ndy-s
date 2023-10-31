@@ -1,8 +1,8 @@
 <div align="center">
   <h2>Hello, I'm Hendy!</h2>
   
-  <a href="https://github.com/Ndy-S">
-    <img src="https://img.shields.io/badge/-Ndy--S-black?style=flat&logo=GitHub&logoColor=white" alt="GitHub Badge">
+  <a href="https://github.com/ndy-s">
+    <img src="https://img.shields.io/badge/-ndy--s-black?style=flat&logo=GitHub&logoColor=white" alt="GitHub Badge">
   </a>
   <a href="https://www.linkedin.com/in/hendy-saputra-20b00424b/">
     <img src="https://img.shields.io/badge/-Hendy%20Saputra-blue?style=flat&logo=Linkedin&logoColor=white" alt="Linkedin Badge">
