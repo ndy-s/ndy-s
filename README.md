@@ -1,10 +1,8 @@
 # Hi there! 👋
 
-A curious developer, I love writing code that tackles real-world challenges. Whether it’s a simple script or a complex ML model, I’m all in! My late-night musings often revolve around neural networks, natural language processing, and the ever-evolving field of artificial intelligence. 
+As a Developer, I like to write code, creating projects, and discovering new concepts. I occasionally work on Machine Learning too. I believe in learning through action, which is why I’m constantly working on new projects. Always learning, always creating.
 
-I believe in learning by doing. That’s why I’m constantly building projects—whether it’s a web app, an interactive bot, or a machine learning model. Always learning, always creating.
-
-I’m always up for interesting discussions, collaborations, and sharing ideas. Feel free to connect with me on LinkedIn or drop me an email.
+For interesting discussions, collaborations, or idea sharing, feel free to connect with me on LinkedIn or send me an email. I’m always open to new opportunities and ideas.
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="programming">
