@@ -1,2 +1,2 @@
 - 🙌 Greetings! NdyS in the house!  
-- 🎯 Continuously learning, evolving, and improving—one line of code at a time.  
+- 🎯 I continuously learn, adapt, and improve one line of code at a time.
