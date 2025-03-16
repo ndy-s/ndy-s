@@ -1,1 +1,2 @@
-I like to write code, creating projects, and discovering new concepts.
+- 🙌 Greetings! NdyS in the house!  
+- 🎯 Continuously learning, evolving, and improving—one line of code at a time.  
